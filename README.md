@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Harshit Jain</h1>
+<h1 align="center" >Hi 👋, I'm Harshit Jain</h1>
 <h3 align="center">A passionate PROGRAMMER / DEVELOPER / YOUTUBER</h3>
 
-- 🔭 I’m currently working on **Employer Recommendation System**
+- 🔭 I’m currently working on **learning and exploring TECHNICAL STUFFS**
 
 - 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **DSA, CS core subjects, Django, DB design**
 
-- 📫 How to reach me **jainharshit9434@gmail.com**
+- 📫 How to reach me **Ping me at jainharshit9434@gmail.com**
 
 - 📄 Know about my experiences [https://harshitdolu.github.io/harshit/](https://harshitdolu.github.io/harshit/)
 
