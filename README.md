@@ -1,6 +1,8 @@
 <h1 align="center" >Hi 👋, I'm Harshit Jain</h1>
 <h3 align="center">A passionate PROGRAMMER / DEVELOPER / YOUTUBER</h3>
-
+ 
+ <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" >
+ 
 - 🔭 I’m currently working on **learning and exploring TECHNICAL STUFFS**
 
 - 🌱 I’m currently learning **MERN stack**
