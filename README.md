@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Jain</h1>
-<h3 align="center">A passionate PROGRAMMER / DJANGO DEVELOPER / YOUTUBER</h3>
+<h3 align="center">A passionate PROGRAMMER / DEVELOPER / YOUTUBER</h3>
 
 - 🔭 I’m currently working on **Employer Recommendation System**
 
