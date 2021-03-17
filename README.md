@@ -5,7 +5,7 @@
  
 - 🔭 I’m currently working on **learning and exploring TECHNICAL STUFFS**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Image processing and OpenCv**
 
 - 💬 Ask me about **DSA, CS core subjects, Django, DB design**
 
