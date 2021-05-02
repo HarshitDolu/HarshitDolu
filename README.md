@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Ping me at jainharshit9434@gmail.com**
 
-- 📄 Know about my experiences [https://harshitdolu.github.io/harshit/](https://harshitdolu.github.io/harshit/)
+- 📄 Know about my experiences [https://harshitdolu.github.io/Harshit_nita/](https://harshitdolu.github.io/Harshit_nita/)
 
 - ⚡ Fun fact **I think I am funny**
 
