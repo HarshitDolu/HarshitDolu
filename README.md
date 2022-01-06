@@ -5,8 +5,6 @@
  
 - 🔭 I’m currently working on **learning and exploring TECHNICAL STUFFS**
 
-- 🌱 I’m currently learning **Image processing and OpenCv**
-
 - 💬 Ask me about **DSA, CS core subjects, Django, DB design**
 
 - 📫 How to reach me **Ping me at jainharshit9434@gmail.com**
